@@ -1,0 +1,13 @@
+streamlit
+langchain
+streamlit
+python-docx
+pandas
+langchain-google-genai
+google-generativeai
+typing-inspect
+typing_extensions
+numpy
+requests
+aiohttp
+langchain-community
